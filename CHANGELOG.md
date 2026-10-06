@@ -3,6 +3,13 @@
 Todas as mudanças relevantes do projeto *Restaurante* (Sistema Hipotético para Atividade Prática) estão registradas aqui.
 O versionamento segue o padrão `MAJOR.MINOR.PATCH`.
 
+## [1.0.1] - 2026-10-05
+
+Correção na tela de login.
+
+### Corrigido
+- O campo SENHA do login (`index.html`) passa a ser um campo de senha (`type='password'`), ocultando os caracteres digitados.
+
 ## [1.0.0] - 2026-10-05
 
 Release 3: funcionamento completo do login.
